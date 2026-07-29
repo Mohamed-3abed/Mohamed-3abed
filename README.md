@@ -3,7 +3,7 @@
 <!-- يمكنك تغيير الرابط بصورة شخصية لك أو لوجو خاص بك -->
 <img src="https://github.com/Mohamed-3abed.png" style="height: 260px; border-radius: 50%; border: 3px solid #ff3b3b;">
 
-<h1>Mohamed Abed</h1>
+<h1>Mohamed S. Abed</h1>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=ff3b3b&center=true&vCenter=true&width=650&lines=Penetration+Tester;Bug+Bounty+Hunter;Backend+Developer+(PHP%2FLaravel);Senior+Computer+Science+Student" />
