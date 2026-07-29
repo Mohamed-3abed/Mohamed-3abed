@@ -91,7 +91,7 @@ Based in Egypt 🇪🇬
 <div align="center">
 
 <a href="#">
-<img src="https://via.placeholder.com/350x220/0d0d0d/ff3b3b?text=CCEP+Certificate" width="260" style="border: 1px solid #ff3b3b; border-radius: 6px;">
+<img src="https://drive.google.com/file/d/1FmaSt8I4aSO1AjwuNEOtIZskfkXmi9AW/view?usp=drivesdk" width="260" style="border: 1px solid #ff3b3b; border-radius: 6px;">
 </a>
 
 </div>
@@ -105,8 +105,8 @@ Based in Egypt 🇪🇬
 ## 🏆 Platforms
 
 <div align="center">
-  <a href="https://tryhackme.com/p/Mohamed3abed"><img src="https://img.shields.io/badge/TryHackMe-Mohamed_Abed-0d0d0d?style=for-the-badge&logo=tryhackme&logoColor=ff3b3b"></a>
-  <a href="https://profile.hackthebox.com/profile/019fb00c-cb1e-72e2-ac0e-da47afa5a131"><img src="https://img.shields.io/badge/HackTheBox-Mohamed_Abed-0d0d0d?style=for-the-badge&logo=hackthebox&logoColor=ff3b3b"></a>
+  <a href="#https://tryhackme.com/p/Mohamed3abed"><img src="https://img.shields.io/badge/TryHackMe-Mohamed_Abed-0d0d0d?style=for-the-badge&logo=tryhackme&logoColor=ff3b3b"></a>
+  <a href="#https://profile.hackthebox.com/profile/019fb00c-cb1e-72e2-ac0e-da47afa5a131"><img src="https://img.shields.io/badge/HackTheBox-Mohamed_Abed-0d0d0d?style=for-the-badge&logo=hackthebox&logoColor=ff3b3b"></a>
 </div>
 
 ---
