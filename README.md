@@ -16,7 +16,7 @@
 <br><br>
 
   <p>
-    <a href="https://www.linkedin.com/in/mohamed-s-abed-9426b32b0/"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=ff3b3b"></a>
+    <a href="https://www.linkedin.com/in/mohamed-s-abed-9426b32b0/"><img src="https://img.shields.io/badge/LinkedIn-0d0d0d.svg?style=for-the-badge&logo=linkedin&logoColor=%23ff3b3b" alt="LinkedIn"></a>
     <a href="https://github.com/Mohamed-3abed"><img src="https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=ff3b3b"></a>
     <a href="mailto:mohamed.s.abed21@gmail.com"><img src="https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=ff3b3b"></a>
   </p>
