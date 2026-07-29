@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- يمكنك تغيير الرابط بصورة شخصية لك أو لوجو خاص بك -->
-<img src="https://github.com/Mohamed-3abed.png" style="height: 260px; border-radius: 50%; border: 3px solid #ff3b3b;">
+<img src="https://github.com/Mohamed-3abed.png" style="height: 260px;">
 
 <h1>Mohamed S. Abed</h1>
 
