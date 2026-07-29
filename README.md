@@ -105,8 +105,8 @@ Based in Egypt 🇪🇬
 ## 🏆 Platforms
 
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/TryHackMe-Mohamed_Abed-0d0d0d?style=for-the-badge&logo=tryhackme&logoColor=ff3b3b"></a>
-  <a href="#"><img src="https://img.shields.io/badge/HackTheBox-Mohamed_Abed-0d0d0d?style=for-the-badge&logo=hackthebox&logoColor=ff3b3b"></a>
+  <a href="https://tryhackme.com/p/Mohamed3abed"><img src="https://img.shields.io/badge/TryHackMe-Mohamed_Abed-0d0d0d?style=for-the-badge&logo=tryhackme&logoColor=ff3b3b"></a>
+  <a href="https://profile.hackthebox.com/profile/019fb00c-cb1e-72e2-ac0e-da47afa5a131"><img src="https://img.shields.io/badge/HackTheBox-Mohamed_Abed-0d0d0d?style=for-the-badge&logo=hackthebox&logoColor=ff3b3b"></a>
 </div>
 
 ---
